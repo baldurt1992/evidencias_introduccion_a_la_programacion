@@ -3,9 +3,9 @@
 
 ## Sesión 1 
 
+## Actividad: Presentación grupal sobre conceptos básicos de la web
 
-<!-- Su documentación aquí -->
-
+### Exposiciones grupales
 
 
 
