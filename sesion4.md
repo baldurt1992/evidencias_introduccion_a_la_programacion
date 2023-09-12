@@ -4,7 +4,7 @@
 ## Sesión 4
 
 
-**<summary>Crear una tabla HTML con información sobre productos.</summary>**
+**Crear una tabla HTML con información sobre productos.**
 
 ```html
 <!DOCTYPE html>

@@ -4,7 +4,7 @@
 ## Sesión 3 
 
 
-**<summary>Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5.</summary>**
+**Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5.**
 
 **Index:**
 

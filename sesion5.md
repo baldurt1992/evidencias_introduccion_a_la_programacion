@@ -4,7 +4,7 @@
 ## Sesión 5 
 
 
-**<summary>Diseñar un formulario de pedido de un producto.</summary>**
+**Diseñar un formulario de pedido de un producto.**
 
 ```html
 <!DOCTYPE html>

@@ -4,7 +4,7 @@
 ## Sesión 2
 
 
-**<summary>Creando mi primer sitio web.</summary>**
+*Creando mi primer sitio web.**
 
 **Index:**
 
