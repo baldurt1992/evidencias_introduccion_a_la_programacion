@@ -10,6 +10,7 @@ Bienvenidos a la plataforma de recolección de evidencias, donde se encontrarán
 - [Sesión 4](./sesion4.md)
 - [Sesión 5](./sesion5.md)
 - [Sesión 6](./sesion6.md)
+- [Creación de token github](./sesion5.5_Creacion_token.md)
 
 ## Momento 2
 
