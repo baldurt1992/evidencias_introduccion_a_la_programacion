@@ -1,4 +1,4 @@
-# Creación de token en gitHub
+# Creación de token en GitHub
 
 ## Los posibles errores para los que puedes necesitar el token son:
 
