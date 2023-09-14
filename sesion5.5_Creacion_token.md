@@ -18,21 +18,21 @@ Estos son algunos de los errores comunes que puedes encontrar en la consola de G
 
 **1.** Vamos a la esquina superior derecha, donde se ubica tu perfil y damos clíc.
 
-**2.** Nos desplazamos hasta abajo y damos clic en settings.
+**2.** Nos desplazamos hasta abajo y damos clic en **settings**.
 
-**3.** En la parte izquierda de la página nos desplazamos hasta abajo  damos clic en <> Developer settings.
+**3.** En la parte izquierda de la página nos desplazamos hasta abajo  damos clic en **<> Developer settings**.
 
-**4.** Una vez dentro, nos ubicamos en la parte izquierda y desplegamos "personal accces token".
+**4.** Una vez dentro, nos ubicamos en la parte izquierda y desplegamos **"personal accces token"**.
 
-**5.** Damos clic en tokens (classic), y clic en "Generate a personal access token".
+**5.** Damos clic en **tokens (classic)**, y clic en **"Generate a personal access token"**.
 
 **6.** Damos nombre a nuestro token, (es irrelevante el nombre que le demos).
 
-**7.** En la opción expiration, podemos seleccionar el tiempo de vigencia de nuestro token, si tu pc tuvo alguno de estos errores es recomendable la opción "no expiration", de lo contrario debes volver a crear el token cada vez que caduque.
+**7.** En la opción **Expiration**, podemos seleccionar el tiempo de vigencia de nuestro token, si tu pc tuvo alguno de estos errores es recomendable la opción "no expiration", de lo contrario debes volver a crear el token cada vez que caduque.
 
 **8.** Seleccionamos los permisos que tendremos una vez accedamos al token, si es un repositorios propio, selecciona todas las opciones para tener un manejo completo de tu repositorio.
 
-**9.** Hacemos clic en "Generate token" y copiamos nuestro token.
+**9.** Hacemos clic en **"Generate token"** y copiamos nuestro token.
 
 **NOTA: Una vez copiado, es recomendable guardarlo en un lugar donde no lo pierdas y puedas encontrarlo facilmente, ya que no volverá a aparecer de nuevo y tendrás que generar uno nuevo si lo pierdes (es aconsejable crear un bloc de notas y guardarlo en tu pc, donde puedas ublicarlo con mayor facilidad).**
 
@@ -51,7 +51,6 @@ Abre tu terminal o consola en tu máquina local y navega al directorio donde des
 ```git
 git clone URL_DEL_REPOSITORIO
 ```
-Copy code
 
 **3. Abre la carpeta del repositior con el cmd**
 
