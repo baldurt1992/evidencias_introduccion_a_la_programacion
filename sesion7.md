@@ -13,7 +13,7 @@ Crea un proyecto web de diseño libre.
 Documentar el repositorio en el archivo README.md
 
 
-Lnk: https://baldurt1992.github.io/eucalyptoAccesorios/
+[Link página en GitHub](https://baldurt1992.github.io/eucalyptoAccesorios/)
 
 
 
