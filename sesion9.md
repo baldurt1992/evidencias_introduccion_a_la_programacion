@@ -12,7 +12,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 **Index**
 
-```java
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -30,7 +30,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 **CSS**
 
-```java
+```css
 .contenedor {
     width: 300px;
     height: 300px;
