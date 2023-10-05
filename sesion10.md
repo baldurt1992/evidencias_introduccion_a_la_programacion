@@ -165,7 +165,7 @@ En el archivo CSS, define las propiedades de visualización y posicionamiento de
 2. ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
 3.  ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
 
-**Solución**
+*Solución*
 
 1. Diferencia entre position: absolute y position: relative:
 
