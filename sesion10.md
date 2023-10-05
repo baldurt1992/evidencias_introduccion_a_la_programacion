@@ -161,21 +161,21 @@ En el archivo CSS, define las propiedades de visualización y posicionamiento de
 
 **Preguntas:**
 
-1. ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
+* ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
 
 Diferencia entre position: absolute y position: relative:
 
 position: absolute elimina el elemento del flujo normal y se posiciona en relación con un ancestro posicionado.
 position: relative mantiene el elemento en el flujo normal y permite ajustes de posición sin afectar a otros elementos.
 
-1. ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
+* ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
 
 Uso de z-index para controlar el orden de apilamiento:
 
 z-index se utiliza para definir la posición vertical de elementos superpuestos.
 Un valor más alto de z-index coloca un elemento encima de otros con un valor menor.
 
-3.  ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
+* ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
 
 La propiedad display en CSS no solo determina dónde se va a situar un elemento, también define cómo se va a comportar a nivel de bloque o línea, e incluso si se va a ver o no. Para entender este comportamiento primero debemos saber qué es el nivel de bloque y de línea.
 
