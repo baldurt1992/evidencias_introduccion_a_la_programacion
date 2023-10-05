@@ -177,10 +177,11 @@ position: relative mantiene el elemento en el flujo normal y permite ajustes de 
 z-index se utiliza para definir la posición vertical de elementos superpuestos.
 Un valor más alto de z-index coloca un elemento encima de otros con un valor menor.
 
-3. Uso de display para controlar cómo se muestra un elemento:
+3. La propiedad display en CSS no solo determina dónde se va a situar un elemento, también define cómo se va a comportar a nivel de bloque o línea, e incluso si se va a ver o no. Para entender este comportamiento primero debemos saber qué es el nivel de bloque y de línea.
 
-display controla cómo se muestra un elemento en la página.
-Valores comunes son block (como un bloque), inline (en línea con el texto), y none (oculto).
+Cada elemento de HTML tiene un valor display CSS por defecto. Los elementos de tipo div, encabezados, formularios, secciones o párrafos son elementos que tienen por defecto el valor block. Por otro lado, los elementos como span, cursiva, negrita, enlace e imagen tienen por defecto el valor inline. Estos valores afectarán la forma en la que se comporta el elemento en relación al viewport y a la línea de texto.
+
+Además de estos valores, la propiedad display en CSS tiene muchas opciones. A continuación te presentamos las cuatro tipos de display css u opciones más importantes de esta propiedad: block (como un bloque), inline (en línea con el texto), inline-block y none (oculto).
 
 
 
