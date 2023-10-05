@@ -171,9 +171,10 @@ En el archivo CSS, define las propiedades de visualización y posicionamiento de
 
 position: absolute elimina el elemento del flujo normal y se posiciona en relación con un ancestro posicionado.
 position: relative mantiene el elemento en el flujo normal y permite ajustes de posición sin afectar a otros elementos.
-Uso de z-index para controlar el orden de apilamiento:
 
-2. z-index se utiliza para definir la posición vertical de elementos superpuestos.
+2. Uso de z-index para controlar el orden de apilamiento:
+
+z-index se utiliza para definir la posición vertical de elementos superpuestos.
 Un valor más alto de z-index coloca un elemento encima de otros con un valor menor.
 
 3. Uso de display para controlar cómo se muestra un elemento:
