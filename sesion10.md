@@ -162,22 +162,22 @@ En el archivo CSS, define las propiedades de visualización y posicionamiento de
 **Preguntas:**
 
 1. ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
-2. ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
-3.  ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
 
-**Solución**
-
-1. Diferencia entre position: absolute y position: relative:
+Diferencia entre position: absolute y position: relative:
 
 position: absolute elimina el elemento del flujo normal y se posiciona en relación con un ancestro posicionado.
 position: relative mantiene el elemento en el flujo normal y permite ajustes de posición sin afectar a otros elementos.
 
-2. Uso de z-index para controlar el orden de apilamiento:
+1. ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
+
+Uso de z-index para controlar el orden de apilamiento:
 
 z-index se utiliza para definir la posición vertical de elementos superpuestos.
 Un valor más alto de z-index coloca un elemento encima de otros con un valor menor.
 
-3. La propiedad display en CSS no solo determina dónde se va a situar un elemento, también define cómo se va a comportar a nivel de bloque o línea, e incluso si se va a ver o no. Para entender este comportamiento primero debemos saber qué es el nivel de bloque y de línea.
+3.  ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
+
+La propiedad display en CSS no solo determina dónde se va a situar un elemento, también define cómo se va a comportar a nivel de bloque o línea, e incluso si se va a ver o no. Para entender este comportamiento primero debemos saber qué es el nivel de bloque y de línea.
 
 Cada elemento de HTML tiene un valor display CSS por defecto. Los elementos de tipo div, encabezados, formularios, secciones o párrafos son elementos que tienen por defecto el valor block. Por otro lado, los elementos como span, cursiva, negrita, enlace e imagen tienen por defecto el valor inline. Estos valores afectarán la forma en la que se comporta el elemento en relación al viewport y a la línea de texto.
 
